@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
         - name: nginx-container
-          image: nginx
+          image: shaikmustafa/cycle
           ports:
             - containerPort: 80
